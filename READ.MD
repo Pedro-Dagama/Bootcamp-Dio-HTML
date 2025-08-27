@@ -1,15 +1,10 @@
-# Bootcamp DIO — Projeto HTML
+# Estudos de HTML — Bootcamp DIO
 
 ## Descrição do projeto
-Este projeto faz parte do Bootcamp da DIO e tem como objetivo **estudar e praticar HTML**.  
-Ele explora a estrutura básica de uma página web, explicando como funciona o HTML, o que são tags, atributos e a semântica das informações.
+Este repositório é dedicado aos meus **estudos de HTML** durante o Bootcamp da DIO.  
+Aqui serão registrados todos os conteúdos relacionados **somente ao HTML**, incluindo formulários, inputs, navegação interna e marcação semântica.
 
-Durante o projeto, foram criados conteúdos como:
-- Títulos (`<h1>`, `<h2>` etc.)
-- Parágrafos (`<p>`)
-- Links internos (`<a href="#id">`)
-- Marcação semântica (`<blockquote>`, `<mark>`)
-- Índice navegável usando `id` e links internos
+O objetivo é **registrar e consolidar o aprendizado**, praticando boas práticas e organização do conteúdo.
 
 ---
 
@@ -19,12 +14,9 @@ Durante o projeto, foram criados conteúdos como:
 ---
 
 ## Objetivos de aprendizado
-- Compreender a função do HTML na construção de páginas web.
-- Conhecer e aplicar tags básicas e semânticas.
-- Organizar conteúdos de forma hierárquica.
-- Criar navegação interna dentro da página.
-
----
-
-
+- Entender a função do HTML na construção de páginas web.  
+- Aprender a aplicar tags e atributos corretamente.  
+- Organizar o conteúdo de forma hierárquica e semântica.  
+- Criar formulários e campos de input funcionando.  
+- Praticar navegação interna e estrutura de página completa.
 
