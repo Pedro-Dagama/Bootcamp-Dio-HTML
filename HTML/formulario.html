@@ -6,7 +6,13 @@
     <title>Formulario - Bootcamp- DIO</title>
   </head>
   <body>
-    <form name="signup" onsubmit="alert('Olá seja bem-vindo(a)!')" autocomplete="on" action="#" method="post">
+    <form
+      name="signup"
+      onsubmit="alert('Olá seja bem-vindo(a)!')"
+      autocomplete="on"
+      action="#"
+      method="post"
+    >
       <label for="name">nome:</label>
       <input type="text" name="name" id="name" />
       <br />
@@ -16,6 +22,29 @@
       <label for="">senha:</label>
       <input type="password" name="senha" id="senha" />
       <br />
+      <label for="">range:</label>
+      <input type="range" min="0" max="100" />
+      <br />
+      <label for="cor">cor:</label>
+      <input type="color" />
+      <br />
+      <br />
+      <label for="">email:</label>
+      <input type="email" />
+      <br />
+      <br />
+      <label for="url">Url:</label>
+      <input type="url" />
+      <br />
+      <label for="data">Data:</label>
+      <input type="date" name="date" id="date" />
+      <br>
+      <label for="check">check-box</label>
+      <input type="checkbox" name="check" id="check">
+      <br>
+      <label for="radio">Radio</label>
+      <input type="radio" name="radio" id="radio">
+      <br>
       <button type="submit">Enviar</button>
     </form>
   </body>
